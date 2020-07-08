@@ -1,3 +1,6 @@
+作为学习 flutter + redux 项目。
+---
+
 ![](./logo.png)
 
 
